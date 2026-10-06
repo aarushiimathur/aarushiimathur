@@ -18,7 +18,9 @@
 
 I am a final-year B.Tech student specializing in **Artificial Intelligence and Machine Learning**, with a strong interest in developing practical, data-driven AI systems.
 
-My work focuses on transforming complex problems into intelligent solutions using **Machine Learning, Deep Learning, Computer Vision, NLP, and Explainable AI**. I enjoy exploring the complete AI development lifecycle — from data and model development to evaluation, visualization, and deployment.
+My work focuses on transforming complex problems into intelligent solutions using **Machine Learning, Deep Learning, Computer Vision, NLP, Agentic AI and Generative AI**. I enjoy exploring the complete AI development lifecycle — from data and model development to evaluation, visualization, and deployment.
+
+Check out my recent project - ROUTE MIND(https://route-mind-tau.vercel.app/)
 
 ---
 
